@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Test Project</string>
+    <string name="burger_menu">burger_menu</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+    <string name="toolbar_title">Conversations</string>
+    <string name="search_for_friends">Search for friends</string>
+    <string name="name">name</string>
+    <string name="start_typing">Start typing...</string>
+</resources>
