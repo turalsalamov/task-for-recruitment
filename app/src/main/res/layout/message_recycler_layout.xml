@@ -228,7 +228,8 @@
                 android:id="@+id/sender_message_inbox_photo"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
-                android:src="@drawable/bird"/>
+                android:src="@drawable/bird"
+                android:scaleType="centerCrop"/>
 
         </androidx.cardview.widget.CardView>
 
@@ -259,7 +260,8 @@
                 android:id="@+id/host_message_photo_inbox"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
-                android:src="@drawable/bird"/>
+                android:src="@drawable/bird"
+                android:scaleType="centerCrop"/>
 
         </androidx.cardview.widget.CardView>
 
